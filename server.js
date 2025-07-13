@@ -1,5 +1,7 @@
 const express = require('express');
-const puppeteer = require('puppeteer');
+const puppeteer = require('puppeteer'); // <- El completo para local
+const puppeteerCore = require('puppeteer-core'); // <- El "core" para Render
+const chromium = require('@sparticuz/chromium'); // <- El navegador para Render
 const fs = require('fs');
 const cron = require('node-cron');
 const path = require('path');
@@ -11,18 +13,38 @@ const PORT = process.env.PORT || 3000;
 // En server.js
 
 async function fetchFromPage() {
+    let browser; // Se declara afuera para que 'finally' pueda accederla
     console.log(`[${new Date().toLocaleString('es-CL')}] Iniciando scraping de farmacias...`);
-    const browser = await puppeteer.launch({ headless: true, args: ['--no-sandbox'] });
-    const page = await browser.newPage();
 
     try {
+        // --- INICIO DE LA MODIFICACIÓN ---
+        // Este bloque decide qué versión de Puppeteer usar
+        if (process.env.NODE_ENV === 'production') {
+            // CÓDIGO PARA RENDER (PRODUCCIÓN)
+            console.log('Modo Producción: Usando Chromium para Render.');
+            browser = await puppeteerCore.launch({
+                args: chromium.args,
+                defaultViewport: chromium.defaultViewport,
+                executablePath: await chromium.executablePath(),
+                headless: chromium.headless,
+            });
+        } else {
+            // CÓDIGO PARA TU PC (LOCAL)
+            console.log('Modo Local: Usando la versión de Puppeteer instalada.');
+            browser = await puppeteer.launch({
+                headless: true // Cambialo a false si querés ver el navegador
+            });
+        }
+        // --- FIN DE LA MODIFICACIÓN ---
+
+        const page = await browser.newPage();
         await page.goto(URL, { waitUntil: 'networkidle2' });
 
         const now = new Date();
         const fecha = now.toISOString().slice(0, 10);
         const hora = encodeURIComponent(now.toTimeString().slice(0, 8));
 
-        // PASO 1: Obtener la lista maestra (sin cambios)
+        // PASO 1: Obtener la lista maestra
         console.log('Paso 1: Obteniendo la lista maestra de farmacias de turno...');
         const farmaciasDeTurnoCoords = [];
         for (let regionId = 1; regionId <= 16; regionId++) {
@@ -52,22 +74,17 @@ async function fetchFromPage() {
                 if (detalleData.correcto && detalleData.respuesta.local) {
                     const detalleLocal = Array.isArray(detalleData.respuesta.local) ? detalleData.respuesta.local[0] : detalleData.respuesta.local;
                     
-                    // --- INICIO DE LA MODIFICACIÓN ---
-                    // NUEVO: Procesar el objeto 'horario' que viene separado
                     const horarioInfo = detalleData.respuesta.horario;
                     let horarioTurno = 'No especificado';
 
                     if (horarioInfo && horarioInfo.turno) {
-                        // Limpiamos la cadena: reemplazamos <br> por un espacio y quitamos espacios extra.
                         horarioTurno = horarioInfo.turno.replace(/<br\s*\/?>/gi, ' ').replace(/\s+/g, ' ').trim();
                     }
-                    // --- FIN DE LA MODIFICACIÓN ---
 
-                    // Unimos los datos base, los detalles y el nuevo horario
                     return {
                         ...farmacia,
                         ...detalleLocal,
-                        horario_turno: horarioTurno // Guardamos el horario de turno limpio
+                        horario_turno: horarioTurno
                     };
                 }
                 return null;
@@ -79,7 +96,7 @@ async function fetchFromPage() {
         
         console.log(`Paso 3: Se obtuvieron detalles completos para ${farmaciasCompletas.length} farmacias.`);
 
-        // PASO 3: Guardar el JSON final (sin cambios en esta parte)
+        // PASO 3: Guardar el JSON final
         const dataFinal = {
             fechaActualizacion: new Date().toISOString(),
             farmacias: farmaciasCompletas
@@ -90,7 +107,9 @@ async function fetchFromPage() {
     } catch (error) {
         console.error("Ocurrió un error durante el scraping:", error);
     } finally {
-        await browser.close();
+        if (browser) {
+            await browser.close();
+        }
     }
 }
 

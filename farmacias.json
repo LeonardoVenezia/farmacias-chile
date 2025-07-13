@@ -1,29 +1,29 @@
 {
-  "fechaActualizacion": "2025-07-12T13:42:54.203Z",
+  "fechaActualizacion": "2025-07-13T18:00:44.840Z",
   "farmacias": [
     {
-      "im": "7666",
-      "lat": "-20.292652",
-      "lng": "-70.097262",
-      "nm": "FARMACIA BIENESTAR",
-      "dr": "japon n°4281",
-      "rg": "1",
-      "cm": "11",
-      "tl": "+56936398160",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
-    },
-    {
-      "im": "3399",
-      "lat": "-20.2139183",
-      "lng": "-70.1488423",
+      "im": "3401",
+      "lat": "-20.2413563",
+      "lng": "-70.1438802",
       "nm": "FARMACIA SALCOBRAND",
-      "dr": "tarapaca 671-683",
+      "dr": "avenida arturo prat 1732",
       "rg": "1",
       "cm": "5",
-      "tl": "+56572471143",
+      "tl": "+56572518649",
       "at": "1",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
+    },
+    {
+      "im": "9438",
+      "lat": "-20.258563",
+      "lng": "-70.1047433",
+      "nm": "FARMACIA VILLA FREI",
+      "dr": "avenida teniente hernan merino correa 2679",
+      "rg": "1",
+      "cm": "11",
+      "tl": "956564829",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
       "im": "335",
@@ -38,136 +38,136 @@
       "horario_turno": "Inició el Miércoles 31 de Diciembre, de a del día hoy"
     },
     {
-      "im": "9881",
-      "lat": "-23.0985013",
-      "lng": "-70.4455041",
-      "nm": " CRUZ VERDE",
-      "dr": " almirante juan jose latorre 812",
+      "im": "3290",
+      "lat": "-23.0997827",
+      "lng": "-70.4468286",
+      "nm": "APOTHECA",
+      "dr": "calle almirante latorre 795",
       "rg": "2",
       "cm": "13",
-      "tl": "+569 7733 1560",
+      "tl": "982394683",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "10222",
-      "lat": "-23.634016",
-      "lng": "-70.3940144",
-      "nm": "COSTA NORTE IQUIQUE PARK",
-      "dr": "av. iquique n°4061, local1",
+      "im": "10325",
+      "lat": "-23.6401591",
+      "lng": "-70.3932028",
+      "nm": "ESTACIÓN",
+      "dr": "avenida iquique 3462",
       "rg": "2",
       "cm": "12",
-      "tl": "+56981641479",
+      "tl": "+56954616445",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "9386",
-      "lat": "-25.4062916",
-      "lng": "-70.4844526",
-      "nm": "DEL DESIERTO LOCAL 2",
-      "dr": "avenida arturo prat 711",
+      "im": "5337",
+      "lat": "-23.5622809",
+      "lng": "-70.3911512",
+      "nm": "FARMACIA CRUZ VERDE",
+      "dr": "av. pedro aguirre cerda nº 10850, local 10",
+      "rg": "2",
+      "cm": "12",
+      "tl": "+56026944000",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "4501",
+      "lat": "-23.6589785",
+      "lng": "-70.3985179",
+      "nm": "FARMACIA DERMAEXPRES",
+      "dr": "salvador reyes n°1145",
+      "rg": "2",
+      "cm": "12",
+      "tl": "+56552768792",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "4381",
+      "lat": "-25.4054866",
+      "lng": "-70.4824276",
+      "nm": "FARMACIA FARMAPLUSS",
+      "dr": "prat nº 785, taltal",
       "rg": "2",
       "cm": "15",
-      "tl": "+56946290519",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "tl": "+56552612199",
+      "at": "1",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "6070",
-      "lat": "-23.5788289",
-      "lng": "-70.3906554",
-      "nm": "FARMACIA BUENASALUD",
-      "dr": "av. pedro aguirre cerda n°9448-b",
-      "rg": "2",
-      "cm": "12",
-      "tl": "+56995748367",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "3298",
-      "lat": "-22.9117147",
-      "lng": "-68.1992798",
-      "nm": "FARMACIA CRUZ VERDE",
-      "dr": "calle caracoles 359",
+      "im": "7929",
+      "lat": "-22.9112985",
+      "lng": "-68.2002356",
+      "nm": "FARMACIA SAN PEDRO DE ATACAMA - FRACCION",
+      "dr": "vilama n° 425-e",
       "rg": "2",
       "cm": "501",
-      "tl": "2851285",
+      "tl": "+5687290062",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "3488",
-      "lat": "-23.6752560",
-      "lng": "-70.4079761",
-      "nm": "FARMACIA GALENO",
-      "dr": "las cruces nº 790",
-      "rg": "2",
-      "cm": "12",
-      "tl": "+56552933066",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "9222",
-      "lat": "-22.0857976",
-      "lng": "-70.1930064",
-      "nm": "FARMACIA MAICAO",
-      "dr": "21 de mayo n° 1709",
+      "im": "3286",
+      "lat": "-22.087498",
+      "lng": "-70.1932059",
+      "nm": "FARMACIA VICTORIA",
+      "dr": "21 de mayo nº 1513-1529",
       "rg": "2",
       "cm": "19",
-      "tl": "",
+      "tl": "+56552813238",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "6069",
-      "lat": "-22.4455921",
-      "lng": "-68.9237325",
-      "nm": "FARMACIA SYG II",
-      "dr": "avenida arturo prat 1597",
+      "im": "8146",
+      "lat": "-22.4619407",
+      "lng": "-68.924769",
+      "nm": "MAICAO",
+      "dr": "eleuterio ramirez n° 1920",
       "rg": "2",
       "cm": "16",
-      "tl": "+56552553925",
-      "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "tl": "+56226944000",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "3142",
-      "lat": "-27.3662821",
-      "lng": "-70.3333955",
-      "nm": "FARMACIA AHUMADA",
-      "dr": "calle bernardo o higgins 561",
-      "rg": "3",
-      "cm": "21",
-      "tl": "232740394",
-      "at": "1",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 22:00 hrs."
-    },
-    {
-      "im": "3146",
-      "lat": "-28.5769619",
-      "lng": "-70.7584467",
-      "nm": "FARMACIA AHUMADA",
-      "dr": "avenida arturo prat 1100",
-      "rg": "3",
-      "cm": "26",
-      "tl": "232740395",
-      "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "7251",
-      "lat": "-27.0677353",
-      "lng": "-70.8228434",
-      "nm": "FARMACIA CRUZ VERDE",
-      "dr": "calle ossa cerda 330",
+      "im": "3153",
+      "lat": "-27.066871",
+      "lng": "-70.8227523",
+      "nm": "FARMACIA CRUZ",
+      "dr": "calle gana 298",
       "rg": "3",
       "cm": "22",
-      "tl": "226944000",
+      "tl": "522315133",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "3132",
+      "lat": "-28.5767812",
+      "lng": "-70.7591148",
+      "nm": "FARMACIA CRUZ VERDE",
+      "dr": "avenida arturo prat 1040",
+      "rg": "3",
+      "cm": "26",
+      "tl": "512618857",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "6810",
+      "lat": "-27.351455",
+      "lng": "-70.351977",
+      "nm": "FARMACIA FARMATERRA",
+      "dr": "avenida cancha rayada 419",
+      "rg": "3",
+      "cm": "21",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 22:00 hrs."
     },
     {
       "im": "7716",
@@ -179,19 +179,19 @@
       "cm": "25",
       "tl": "998313278",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 22:00 hrs."
     },
     {
-      "im": "3160",
-      "lat": "-26.3446101",
-      "lng": "-70.6175345",
-      "nm": "FARMACIA VARAS",
-      "dr": "calle zuleta 150",
+      "im": "4905",
+      "lat": "-26.346713",
+      "lng": "-70.6220109",
+      "nm": "FARMACIA PORTOFINO",
+      "dr": "calle merino jarpa 547",
       "rg": "3",
       "cm": "24",
-      "tl": "522481105",
+      "tl": "522513739",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "5722",
@@ -203,7 +203,7 @@
       "cm": "29",
       "tl": "985042138",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 22:00 hrs."
     },
     {
       "im": "3126",
@@ -218,52 +218,52 @@
       "horario_turno": "Inició el Miércoles 31 de Diciembre, de a del día hoy"
     },
     {
-      "im": "3615",
-      "lat": "-31.6307543",
-      "lng": "-71.1642823",
-      "nm": "ECONAT",
-      "dr": "constitución n°490",
-      "rg": "4",
-      "cm": "36",
-      "tl": "+56532525176",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
-    },
-    {
-      "im": "7216",
-      "lat": "-31.7806194",
-      "lng": "-70.964056",
-      "nm": "FARMACIA DOCTOR SIMI",
-      "dr": "avenida marquez de montepio 343, local 1",
-      "rg": "4",
-      "cm": "39",
-      "tl": "+5623673560",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
-    },
-    {
-      "im": "4291",
-      "lat": "-31.9105941",
-      "lng": "-71.5093652",
-      "nm": "FARMACIA DR AMIGO",
-      "dr": "calle caupolican 545",
-      "rg": "4",
-      "cm": "38",
-      "tl": "963060175",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
-    },
-    {
-      "im": "10130",
-      "lat": "-30.03337",
-      "lng": "-70.7117500",
-      "nm": "FARMACIA MAICAO",
-      "dr": "gabriela mistral 425",
+      "im": "3585",
+      "lat": "-30.0348947",
+      "lng": "-70.7121515",
+      "nm": "CRUZ VERDE",
+      "dr": "arturo prat 182, vicuña",
       "rg": "4",
       "cm": "35",
-      "tl": "+5622694000",
+      "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "10400",
+      "lat": "-31.7815838",
+      "lng": "-70.9646939",
+      "nm": "FARMACIA MAICAO",
+      "dr": "manuel bulnes 499",
+      "rg": "4",
+      "cm": "39",
+      "tl": "+56982098605",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "4645",
+      "lat": "-31.6324043",
+      "lng": "-71.1664622",
+      "nm": "FARMACIA SAN CARLOS",
+      "dr": "constitución n°260",
+      "rg": "4",
+      "cm": "36",
+      "tl": "+56983628104",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "4677",
+      "lat": "-31.9113643",
+      "lng": "-71.5059246",
+      "nm": "FARMACIAS DEL DR. SIMI",
+      "dr": "caupolican 840, los vilos",
+      "rg": "4",
+      "cm": "38",
+      "tl": "+560223673506",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
       "im": "3580",
@@ -314,76 +314,64 @@
       "horario_turno": "Inició el Miércoles 31 de Diciembre, de a del día hoy"
     },
     {
-      "im": "276",
-      "lat": "-32.7499669",
-      "lng": "-70.7255651",
-      "nm": "AHUMADA",
-      "dr": "calle arturo prat  n° 798",
+      "im": "10666",
+      "lat": "-33.4922818",
+      "lng": "-71.6223721",
+      "nm": " FARMACIA SAN PABLO",
+      "dr": "avenida las salinas 245",
+      "rg": "5",
+      "cm": "75",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "4662",
+      "lat": "-32.7495547",
+      "lng": "-70.7239911",
+      "nm": "BELLFARMA",
+      "dr": "calle combate de las coimas n° 157",
       "rg": "5",
       "cm": "77",
-      "tl": "226313149",
-      "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "4322",
-      "lat": "-32.7854485",
-      "lng": "-71.5273151",
-      "nm": "AHUMADA",
-      "dr": "estrella de chile 191 l-1 y 3",
-      "rg": "5",
-      "cm": "51",
-      "tl": "+560226313691",
+      "tl": "985028421",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "59",
-      "lat": "-33.0661975",
-      "lng": "-71.4228941",
-      "nm": "AHUMADA",
-      "dr": "las barrancas 2491 l 3c y  4d",
-      "rg": "5",
-      "cm": "50",
-      "tl": "+56232740640",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "6283",
-      "lat": "-33.0489189",
-      "lng": "-71.5615132",
-      "nm": "CHILENA",
-      "dr": "av agua santa n°4024 local 07",
-      "rg": "5",
-      "cm": "45",
-      "tl": "+5665723862",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 10:00 a 18:00 hrs."
-    },
-    {
-      "im": "199",
-      "lat": "-33.3972727",
-      "lng": "-71.6944403",
+      "im": "207",
+      "lat": "-33.5465928",
+      "lng": "-71.6025624",
       "nm": "CRUZ VERDE",
-      "dr": "j.n. aguirre nº 017",
+      "dr": "av. cartagena n°313",
       "rg": "5",
-      "cm": "74",
-      "tl": "+562471987",
+      "cm": "73",
+      "tl": "+562451143",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "258",
-      "lat": "-32.8271592",
-      "lng": "-70.6027687",
+      "im": "227",
+      "lat": "-33.6403611",
+      "lng": "-71.6267027",
       "nm": "CRUZ VERDE",
-      "dr": "avenida argentina  n° 805",
+      "dr": "av. el golf nº05",
       "rg": "5",
-      "cm": "55",
-      "tl": "800802800",
+      "cm": "76",
+      "tl": "+562442803",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "228",
+      "lat": "-27.1497494",
+      "lng": "-109.428901",
+      "nm": "CRUZ VERDE",
+      "dr": "atamu tekena s/n",
+      "rg": "5",
+      "cm": "54",
+      "tl": "+562551541",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "293",
@@ -395,115 +383,127 @@
       "cm": "79",
       "tl": "342613147",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "535",
-      "lat": "-32.8966207",
-      "lng": "-71.2657687",
+      "im": "302",
+      "lat": "-32.9977403",
+      "lng": "-71.5130780",
       "nm": "CRUZ VERDE",
-      "dr": "av. valparaiso 2150, local 10",
-      "rg": "5",
-      "cm": "64",
-      "tl": "+5622301893",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "4283",
-      "lat": "-32.9730753",
-      "lng": "-71.5396234",
-      "nm": "CRUZ VERDE",
-      "dr": "av. vicuña mackenna 420 l-6",
+      "dr": "avenida alessandri  4085",
       "rg": "5",
       "cm": "53",
-      "tl": "+56322685085",
+      "tl": "2230180",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 20:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "27",
-      "lat": "-32.9853313",
-      "lng": "-71.2759083",
+      "im": "305",
+      "lat": "-32.6460432",
+      "lng": "-71.4250085",
       "nm": "CRUZ VERDE",
-      "dr": "urmeneta 96",
+      "dr": "carretera f 30 - e   km 45 loc 1 maitencillo",
+      "rg": "5",
+      "cm": "49",
+      "tl": "+56342771581",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "39",
+      "lat": "-33.0021934",
+      "lng": "-71.2680155",
+      "nm": "CRUZ VERDE",
+      "dr": "palmira romano 405",
       "rg": "5",
       "cm": "68",
-      "tl": "+562414551",
+      "tl": "+562414665",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "7147",
-      "lat": "-33.0213084",
-      "lng": "-71.5151910",
-      "nm": "DR. SIMI",
-      "dr": "av. e. frei m. 3544 l-1",
+      "im": "100",
+      "lat": "-33.0275549",
+      "lng": "-71.5734684",
+      "nm": "CRUZ VERDE",
+      "dr": "j.m.carrera  n° 201",
       "rg": "5",
       "cm": "53",
-      "tl": "+562337865",
+      "tl": "+56322620782",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 20:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "7177",
-      "lat": "-33.3203987",
-      "lng": "-71.4070569",
-      "nm": "DR. SIMI",
-      "dr": "chacabuco nº172, patio chacabuco local 102-c",
+      "im": "5040",
+      "lat": "-32.8980865",
+      "lng": "-71.2460098",
+      "nm": "CRUZ VERDE",
+      "dr": "avenida ramón freire nº 1551, local nº 9",
       "rg": "5",
-      "cm": "46",
-      "tl": "+56223673560",
+      "cm": "64",
+      "tl": "+56332293683",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "7786",
-      "lat": "-33.4549909",
-      "lng": "-71.6680929",
+      "im": "6789",
+      "lat": "-33.0405869",
+      "lng": "-71.5905543",
       "nm": "DR. SIMI",
-      "dr": "calle baquedano  1277",
-      "rg": "5",
-      "cm": "75",
-      "tl": "965283653",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "7942",
-      "lat": "-33.0334464",
-      "lng": "-71.5802346",
-      "nm": "DR. SIMI",
-      "dr": "camino real nº1901",
-      "rg": "5",
-      "cm": "53",
-      "tl": "+56992337865",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "9273",
-      "lat": "-32.5072087",
-      "lng": "-71.4485012",
-      "nm": "DR. SIMI",
-      "dr": "domingo fernández concha n° 609",
-      "rg": "5",
-      "cm": "61",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "5351",
-      "lat": "-33.0470843",
-      "lng": "-71.6095581",
-      "nm": "DR. SIMI",
-      "dr": "av. pedro montt 2513, valparaiso",
+      "dr": "av. matta nº 712",
       "rg": "5",
       "cm": "45",
-      "tl": "+56322253642",
+      "tl": "+56+56352296774",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 10:00 a 18:00 hrs."
+    },
+    {
+      "im": "6816",
+      "lat": "-33.0249152",
+      "lng": "-71.5488207",
+      "nm": "DR. SIMI",
+      "dr": "quillota 0141",
+      "rg": "5",
+      "cm": "53",
+      "tl": "+5681881195",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "6858",
+      "lat": "-32.7351239",
+      "lng": "-71.2013612",
+      "nm": "DR. SIMI",
+      "dr": "pedro felix vicuña 268, local 2",
+      "rg": "5",
+      "cm": "69",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 10:00 a 18:00 hrs."
+    },
+    {
+      "im": "2546",
+      "lat": "-33.0450941",
+      "lng": "-71.6046401",
+      "nm": "DR. SIMI",
+      "dr": "av argentina 251-257 esquina quillota 6",
+      "rg": "5",
+      "cm": "45",
+      "tl": "+562594133",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "4658",
+      "lat": "-32.4265309",
+      "lng": "-71.0673825",
+      "nm": "DR. SIMI",
+      "dr": "avenida humeres n° 694",
+      "rg": "5",
+      "cm": "60",
+      "tl": "23673506",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
       "im": "9710",
@@ -515,175 +515,199 @@
       "cm": "78",
       "tl": "342517775",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "61",
-      "lat": "-32.7264534",
-      "lng": "-71.4141798",
-      "nm": "ECONOMICA",
-      "dr": "calle santiago torres  149",
+      "im": "9294",
+      "lat": "-33.0703275",
+      "lng": "-71.4191043",
+      "nm": "ECONOMIK ",
+      "dr": "valle del paraíso 2746",
       "rg": "5",
-      "cm": "49",
-      "tl": "2791499",
+      "cm": "50",
+      "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "11207",
-      "lat": "-33.0376235",
-      "lng": "-71.5411678",
-      "nm": "FARMACIA DEL SIETE",
-      "dr": "avenida blanca vergara 1903",
+      "im": "9484",
+      "lat": "-32.7877957",
+      "lng": "-71.2039962",
+      "nm": "ESPACIO 26",
+      "dr": "carrera n° 1977 local 20",
       "rg": "5",
-      "cm": "53",
-      "tl": "923938452",
+      "cm": "65",
+      "tl": "+56934055029",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 19:00 hrs."
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "10855",
-      "lat": "-32.9987869",
-      "lng": "-71.493173",
-      "nm": "FARMACIA EL MIRADOR ",
-      "dr": "calle los tulipanes  804",
+      "im": "8064",
+      "lat": "-32.8337995",
+      "lng": "-70.5972178",
+      "nm": "FAMILIAR",
+      "dr": "calle esmeralda n° 537",
       "rg": "5",
-      "cm": "53",
-      "tl": "971087412",
+      "cm": "55",
+      "tl": "932312258",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "10801",
-      "lat": "-32.92066",
-      "lng": "-71.51181",
-      "nm": "FARMACIA VITALIS",
-      "dr": "avenida borgoño  24930",
+      "im": "10854",
+      "lat": "-32.9420418",
+      "lng": "-71.5324428",
+      "nm": "FARMACIA AHUMADA",
+      "dr": "avenida blanca estela 1560",
       "rg": "5",
       "cm": "47",
-      "tl": "975112003",
+      "tl": "964852626",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "4078",
-      "lat": "-32.4487691",
-      "lng": "-71.231176",
-      "nm": "FARMAEXPRESS",
-      "dr": "calle pedro polanco 214",
+      "im": "11282",
+      "lat": "-33.0584111",
+      "lng": "-71.426678",
+      "nm": "FARMACIA MARGA MARGA",
+      "dr": "avenida marga marga 1808",
       "rg": "5",
-      "cm": "59",
-      "tl": "2711389",
+      "cm": "50",
+      "tl": "985767772",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "6616",
-      "lat": "-33.5949650",
-      "lng": "-71.6129217",
-      "nm": "FARMAMED",
-      "dr": "avenida ramón barros luco nº 1704",
+      "im": "6617",
+      "lat": "-33.6119818",
+      "lng": "-71.6096302",
+      "nm": "FARMANOVA",
+      "dr": "inmaculada concepción nº180, local 3",
       "rg": "5",
       "cm": "71",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "6424",
-      "lat": "-33.3335953",
-      "lng": "-71.6462925",
-      "nm": "LITORAL",
-      "dr": "camino a mirasol 2348 b",
+      "im": "9696",
+      "lat": "-32.8865995",
+      "lng": "-71.2593706",
+      "nm": "FARMATIEMPO",
+      "dr": "valparaíso 1040",
       "rg": "5",
-      "cm": "72",
+      "cm": "64",
+      "tl": "+56987253465",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "7382",
+      "lat": "-32.7854481",
+      "lng": "-71.5264781",
+      "nm": "FARMAXPRESS",
+      "dr": "calle estrella de chile 95",
+      "rg": "5",
+      "cm": "51",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "9001",
-      "lat": "-33.0470617",
-      "lng": "-71.4418881",
-      "nm": "MAICAO ",
-      "dr": "claudio vicuña n° 932-936",
+      "im": "4606",
+      "lat": "-32.9724723",
+      "lng": "-71.5320218",
+      "nm": "FARMAXPRESS",
+      "dr": "avenida vicuña mackena 1050",
+      "rg": "5",
+      "cm": "53",
+      "tl": "+56322832409",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 20:00 hrs."
+    },
+    {
+      "im": "9477",
+      "lat": "-33.1196344",
+      "lng": "-71.5708406",
+      "nm": "FUNDADORES",
+      "dr": " avenida fundadores n° 1090 local 1",
+      "rg": "5",
+      "cm": "45",
+      "tl": "+56+56965200798",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "9339",
+      "lat": "-33.0313691",
+      "lng": "-71.5451361",
+      "nm": "KARDIOFARMA",
+      "dr": "calle salvador vergara 448",
+      "rg": "5",
+      "cm": "53",
+      "tl": "985341749",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 19:00 hrs."
+    },
+    {
+      "im": "7768",
+      "lat": "-33.3197650",
+      "lng": "-71.4100141",
+      "nm": "LIBERTAD",
+      "dr": "constitución n° 110 local 7",
+      "rg": "5",
+      "cm": "46",
+      "tl": "+5684353756",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "9795",
+      "lat": "-33.0468722",
+      "lng": "-71.4421992",
+      "nm": "MAICAO",
+      "dr": "claudio vicuña 868",
       "rg": "5",
       "cm": "50",
       "tl": "+56226944000",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "9178",
-      "lat": "-33.0442686",
-      "lng": "-71.3731232",
+      "im": "9295",
+      "lat": "-33.0443092",
+      "lng": "-71.3740442",
       "nm": "MAICAO ",
-      "dr": "avenida valparaiso 624",
+      "dr": "avenida valparaíso 716",
       "rg": "5",
       "cm": "52",
-      "tl": "230530556",
+      "tl": "+56220944000",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "9271",
-      "lat": "-32.7877957",
-      "lng": "-71.2039962",
-      "nm": "MAICAO ",
-      "dr": "josé joaquín pérez n° 236",
-      "rg": "5",
-      "cm": "65",
-      "tl": "+56226944000",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "9321",
-      "lat": "-32.8803027",
-      "lng": "-71.2497156",
-      "nm": "MAICAO",
-      "dr": "chacabuco 232",
-      "rg": "5",
-      "cm": "64",
-      "tl": "+5626944000",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "6748",
-      "lat": "-33.0086724",
-      "lng": "-71.5459196",
-      "nm": "MARGA MARGA",
-      "dr": "avenida benidorm 961",
+      "im": "9325",
+      "lat": "-33.0235714",
+      "lng": "-71.5107291",
+      "nm": "MAIRA",
+      "dr": "avenida avenida eduardo frei  3862",
       "rg": "5",
       "cm": "53",
-      "tl": "85767772",
+      "tl": "981316872",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 20:00 hrs."
     },
     {
-      "im": "6760",
-      "lat": "-32.7383817",
-      "lng": "-71.2009702",
-      "nm": "NAHUEN",
-      "dr": "calle sargento aldea nº510",
-      "rg": "5",
-      "cm": "69",
-      "tl": "+5698738846",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 10:00 a 18:00 hrs."
-    },
-    {
-      "im": "6409",
-      "lat": "-33.1194136",
-      "lng": "-71.5725049",
-      "nm": "NUEVA",
-      "dr": "obispo valdes subercaseaux 1285 curauma",
+      "im": "172",
+      "lat": "-33.0300071",
+      "lng": "-71.6365002",
+      "nm": "NACIONAL",
+      "dr": "av. playa ancha nº 257",
       "rg": "5",
       "cm": "45",
-      "tl": "+56937349774",
+      "tl": "+56322156469",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 10:00 a 18:00 hrs."
     },
     {
       "im": "274",
@@ -695,103 +719,79 @@
       "cm": "81",
       "tl": "2501989",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "7623",
-      "lat": "-33.6456332",
-      "lng": "-71.6097432",
-      "nm": "PHARMAPUERTO",
-      "dr": "ruta 66 # 311, local 11",
-      "rg": "5",
-      "cm": "76",
-      "tl": "",
-      "at": "1",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "170",
-      "lat": "-33.0305960",
-      "lng": "-71.6355116",
-      "nm": "PLAYA ANCHA",
-      "dr": "av. playa ancha nº 172",
-      "rg": "5",
-      "cm": "45",
-      "tl": "+56322281196",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 10:00 a 18:00 hrs."
-    },
-    {
-      "im": "2586",
-      "lat": "-32.9954819",
-      "lng": "-71.1826961",
-      "nm": "QFARMA",
-      "dr": "calle prat nº 5122",
+      "im": "3979",
+      "lat": "-32.9964989",
+      "lng": "-71.1864165",
+      "nm": "SALCOBRAND",
+      "dr": "avenida diego portales 2090",
       "rg": "5",
       "cm": "70",
-      "tl": "+56244 1226",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "10164",
-      "lat": "-33.0548744",
-      "lng": "-71.4240727",
-      "nm": "SALCOBRAND ",
-      "dr": "calle del alheli 211",
-      "rg": "5",
-      "cm": "50",
-      "tl": "242233000",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "4421",
-      "lat": "-27.1584148",
-      "lng": "-109.429611",
-      "nm": "SALCOBRAND",
-      "dr": "hotu matua  s/nº",
-      "rg": "5",
-      "cm": "54",
-      "tl": "+560224223300",
+      "tl": "64079001",
       "at": "1",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "208",
-      "lat": "-33.5472206",
-      "lng": "-71.6031519",
-      "nm": "SAN SEBASTIAN",
-      "dr": "casanova nº 328",
-      "rg": "5",
-      "cm": "73",
-      "tl": "+562451357",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
-    },
-    {
-      "im": "9954",
-      "lat": "-32.4244377",
-      "lng": "-71.0632535",
-      "nm": "SANTA EMILIA",
-      "dr": "avenida humeres n° 324",
-      "rg": "5",
-      "cm": "60",
-      "tl": "958318616",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
-    },
-    {
-      "im": "9669",
-      "lat": "-32.8258069",
-      "lng": "-71.2273055",
-      "nm": "TAMANACO ",
-      "dr": " avenida 21 de mayo n° 5551 local 1",
+      "im": "37",
+      "lat": "-32.8237561",
+      "lng": "-71.2257378",
+      "nm": "SALCOBRAND",
+      "dr": "avenida 21 de mayo 5628",
       "rg": "5",
       "cm": "67",
-      "tl": "+562222201",
+      "tl": "2320677",
+      "at": "1",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "272",
+      "lat": "-32.5072953",
+      "lng": "-71.4470545",
+      "nm": "SAN JOSE PAPUDO",
+      "dr": "calle chorrillo 93",
+      "rg": "5",
+      "cm": "61",
+      "tl": "992439061",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "6466",
+      "lat": "-33.3705169",
+      "lng": "-71.6678957",
+      "nm": "SANA SANA",
+      "dr": "calle luz divina nº 1181, local 6 y 7",
+      "rg": "5",
+      "cm": "72",
+      "tl": "+562239732",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "4923",
+      "lat": "-33.3986803",
+      "lng": "-71.6943870",
+      "nm": "SANA SANA",
+      "dr": "isidoro dubournais 320 el quisco",
+      "rg": "5",
+      "cm": "74",
+      "tl": "+562475022",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
+    },
+    {
+      "im": "5846",
+      "lat": "-32.4466548",
+      "lng": "-71.2300415",
+      "nm": "SUFARMA",
+      "dr": "calle uribe 434",
+      "rg": "5",
+      "cm": "59",
+      "tl": "65293030",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "81",
@@ -863,19 +863,7 @@
       "cm": "95",
       "tl": "+56722591329",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
-    },
-    {
-      "im": "5598",
-      "lat": "-34.7092044",
-      "lng": "-71.0429096",
-      "nm": "DR. SIMI",
-      "dr": "pisagua 20",
-      "rg": "6",
-      "cm": "108",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
       "im": "3756",
@@ -887,7 +875,7 @@
       "cm": "115",
       "tl": "+562954390",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3757",
@@ -899,7 +887,7 @@
       "cm": "99",
       "tl": "+56722959650",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3763",
@@ -911,7 +899,19 @@
       "cm": "88",
       "tl": "+56722632419",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
+    },
+    {
+      "im": "5598",
+      "lat": "-34.7092044",
+      "lng": "-71.0429096",
+      "nm": "DR. SIMI",
+      "dr": "pisagua 20",
+      "rg": "6",
+      "cm": "108",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3711",
@@ -923,7 +923,7 @@
       "cm": "104",
       "tl": "+567289077447",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "8141",
@@ -935,7 +935,7 @@
       "cm": "110",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
       "im": "11213",
@@ -947,7 +947,7 @@
       "cm": "109",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "7650",
@@ -959,7 +959,7 @@
       "cm": "112",
       "tl": "+56992847622",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
       "im": "9265",
@@ -971,7 +971,7 @@
       "cm": "105",
       "tl": "+56995815707",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 22:00 hrs."
     },
     {
       "im": "10863",
@@ -983,7 +983,7 @@
       "cm": "83",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
       "im": "6894",
@@ -995,7 +995,7 @@
       "cm": "98",
       "tl": "+56944094718",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
       "im": "6910",
@@ -1007,7 +1007,7 @@
       "cm": "89",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "7969",
@@ -1019,7 +1019,7 @@
       "cm": "106",
       "tl": "226944000",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "10838",
@@ -1031,7 +1031,7 @@
       "cm": "97",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3874",
@@ -1043,7 +1043,7 @@
       "cm": "92",
       "tl": "+5672722491117",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "6895",
@@ -1055,7 +1055,7 @@
       "cm": "93",
       "tl": "920404104",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "5604",
@@ -1067,7 +1067,7 @@
       "cm": "100",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3713",
@@ -1079,7 +1079,7 @@
       "cm": "96",
       "tl": "2541596",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
       "im": "6807",
@@ -1091,7 +1091,7 @@
       "cm": "90",
       "tl": "",
       "at": "1",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
       "im": "3732",
@@ -1103,7 +1103,7 @@
       "cm": "94",
       "tl": "+56722561521",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "3707",
@@ -1115,7 +1115,7 @@
       "cm": "102",
       "tl": "+56722851385",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "3662",
@@ -1151,19 +1151,19 @@
       "cm": "140",
       "tl": "+56989205663",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
-      "im": "3855",
-      "lat": "-35.967629",
-      "lng": "-72.317787",
-      "nm": "FARMACIA AHUMADA",
-      "dr": "victoria n° 501",
+      "im": "7307",
+      "lat": "-35.595162",
+      "lng": "-71.729311",
+      "nm": "FARMACIA AMATIST",
+      "dr": "chorrillos nº1351 san javier",
       "rg": "7",
-      "cm": "126",
-      "tl": "",
+      "cm": "143",
+      "tl": "+56223132197",
       "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 01:00 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 01:00 del día siguiente"
     },
     {
       "im": "5912",
@@ -1175,31 +1175,55 @@
       "cm": "139",
       "tl": "+56991006303",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 22:00 hrs."
     },
     {
-      "im": "4414",
-      "lat": "-35.431786",
-      "lng": "-71.627517",
+      "im": "3846",
+      "lat": "-36.140561",
+      "lng": "-71.823929",
       "nm": "FARMACIA CRUZ VERDE",
-      "dr": "2 norte nº3230 local h (jumbo norte)",
+      "dr": "anibal pinto n°632",
+      "rg": "7",
+      "cm": "141",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 01:00 del día siguiente"
+    },
+    {
+      "im": "3888",
+      "lat": "-35.332438",
+      "lng": "-72.410707",
+      "nm": "FARMACIA CRUZ VERDE",
+      "dr": "freire n° 664-a",
+      "rg": "7",
+      "cm": "117",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "3953",
+      "lat": "-35.4401357",
+      "lng": "-71.6338947",
+      "nm": "FARMACIA EXPRESS",
+      "dr": "8 sur 29 y 30 oriente  nº2987 talca",
       "rg": "7",
       "cm": "116",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "10077",
-      "lat": "-34.9345049",
-      "lng": "-71.1967615",
-      "nm": "FARMACIA FARMA PRAT",
-      "dr": "arturo prat 1137",
+      "im": "9827",
+      "lat": "-35.5384298",
+      "lng": "-71.4876898",
+      "nm": "FARMACIA FARMASOL",
+      "dr": "avenida huamachuco 801",
       "rg": "7",
-      "cm": "129",
-      "tl": "+56942715543",
+      "cm": "124",
+      "tl": "942792544",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 01:00 del día siguiente"
     },
     {
       "im": "7316",
@@ -1211,19 +1235,19 @@
       "cm": "130",
       "tl": "+56940290644",
       "at": "1",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
-      "im": "7168",
-      "lat": "-35.5377789",
-      "lng": "-71.4870286",
-      "nm": "FARMACIA LAS CUMBRES",
-      "dr": "calle alejandro cruz 125",
+      "im": "10349",
+      "lat": "-34.9718212",
+      "lng": "-71.2096023",
+      "nm": "FARMACIA LYON",
+      "dr": "avenida rauquen 2108",
       "rg": "7",
-      "cm": "124",
-      "tl": "20369431",
+      "cm": "129",
+      "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 01:00 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
       "im": "6166",
@@ -1235,55 +1259,19 @@
       "cm": "135",
       "tl": "+56988558080",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 22:00 hrs."
     },
     {
-      "im": "6689",
-      "lat": "-35.594582",
-      "lng": "-71.733838",
-      "nm": "FARMACIA MIMIZA",
-      "dr": "arturo prat n°2599 san javier",
-      "rg": "7",
-      "cm": "143",
-      "tl": "+560983259741",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 01:00 del día siguiente"
-    },
-    {
-      "im": "3847",
-      "lat": "-36.140627",
-      "lng": "-71.823721",
-      "nm": "FARMACIA SALCOBRAND",
-      "dr": "anibal pinto n° 650",
-      "rg": "7",
-      "cm": "141",
-      "tl": "",
-      "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 01:00 del día siguiente"
-    },
-    {
-      "im": "3882",
-      "lat": "-35.331606",
-      "lng": "-72.411033",
-      "nm": "FARMACIA SALCOBRAND",
-      "dr": "calle freire 586",
-      "rg": "7",
-      "cm": "117",
-      "tl": "",
-      "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "5982",
-      "lat": "-35.1142085",
-      "lng": "-71.2809652",
-      "nm": "FARMACIA SALCOBRAND",
-      "dr": "calle quechereguas 1897",
+      "im": "6349",
+      "lat": "-35.099171",
+      "lng": "-71.279855",
+      "nm": "FARMACIA REDFARMA",
+      "dr": "quechereguas nº1797",
       "rg": "7",
       "cm": "132",
-      "tl": "224223300",
+      "tl": "+56752343217",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 01:00 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 01:00 del día siguiente"
     },
     {
       "im": "3819",
@@ -1295,7 +1283,19 @@
       "cm": "136",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
+    },
+    {
+      "im": "6638",
+      "lat": "-35.966388",
+      "lng": "-72.318888",
+      "nm": "FARMACIA SAN RAFAEL",
+      "dr": "antonio varas nº696",
+      "rg": "7",
+      "cm": "126",
+      "tl": "+560920069576",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 01:00 del día siguiente"
     },
     {
       "im": "11498",
@@ -1307,7 +1307,7 @@
       "cm": "142",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
       "im": "3864",
@@ -1355,31 +1355,43 @@
       "cm": "157",
       "tl": "+56412788786",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
-      "im": "5349",
-      "lat": "-36.6184449",
-      "lng": "-72.9563274",
-      "nm": "BIOSALUD",
-      "dr": "mariano egaña, 1016",
+      "im": "2278",
+      "lat": "-37.8016826",
+      "lng": "-73.3995544",
+      "nm": "CRUZ VERDE",
+      "dr": "covadonga nº 267",
       "rg": "8",
-      "cm": "156",
-      "tl": "+56412683230",
+      "cm": "160",
+      "tl": "+56412853670",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "2390",
-      "lat": "-37.0257788",
-      "lng": "-73.1478087",
-      "nm": "DR. SIMI",
-      "dr": "cousiño 131",
+      "im": "2286",
+      "lat": "-36.9296186",
+      "lng": "-73.0232187",
+      "nm": "CRUZ VERDE",
+      "dr": "m. rodriguez 925",
       "rg": "8",
-      "cm": "147",
-      "tl": "+562774162",
+      "cm": "148",
+      "tl": "+56412364476",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "2419",
+      "lat": "-36.7375678",
+      "lng": "-72.9953105",
+      "nm": "CRUZ VERDE",
+      "dr": "freire 500",
+      "rg": "8",
+      "cm": "152",
+      "tl": "+56412454189",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "2409",
@@ -1391,7 +1403,7 @@
       "cm": "158",
       "tl": "+56412511498",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "2518",
@@ -1403,7 +1415,7 @@
       "cm": "169",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "4648",
@@ -1415,31 +1427,7 @@
       "cm": "167",
       "tl": "+569992849531",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
-    },
-    {
-      "im": "9181",
-      "lat": "-37.0919577",
-      "lng": "-73.1573702",
-      "nm": "FARMACIA CRUZ VERDE",
-      "dr": "pedro aguirre cerda 646",
-      "rg": "8",
-      "cm": "151",
-      "tl": "+56111111111",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "7823",
-      "lat": "-36.73726",
-      "lng": "-72.99425",
-      "nm": "FARMACIA DR. SIMI",
-      "dr": "freire n°550-560",
-      "rg": "8",
-      "cm": "152",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "9769",
@@ -1451,7 +1439,7 @@
       "cm": "154",
       "tl": "+56976499032",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "2395",
@@ -1463,31 +1451,43 @@
       "cm": "162",
       "tl": "+56412692915",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
-      "im": "5480",
-      "lat": "-36.8264213",
-      "lng": "-73.0477683",
-      "nm": "FARMACIA VIVO MÁS",
-      "dr": "o´higgins 825 local 14",
+      "im": "7819",
+      "lat": "-37.01895",
+      "lng": "-73.15507",
+      "nm": "FARMACIA MAICAO",
+      "dr": "manuel montt n° 480",
       "rg": "8",
-      "cm": "146",
-      "tl": "+5611111111",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
-    },
-    {
-      "im": "7022",
-      "lat": "-37.8025674",
-      "lng": "-73.3996717",
-      "nm": "FARMACIAS DR. SIMI",
-      "dr": "serrano 266 local 9-10-11",
-      "rg": "8",
-      "cm": "160",
+      "cm": "147",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "5194",
+      "lat": "-36.8252713",
+      "lng": "-73.047596",
+      "nm": "FARMACIA REDFARMA",
+      "dr": "calle barros arana 871",
+      "rg": "8",
+      "cm": "146",
+      "tl": "1111111",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
+    },
+    {
+      "im": "9232",
+      "lat": "-37.0923105",
+      "lng": "-73.1573892",
+      "nm": "FARMACIA UNO",
+      "dr": "calle pedro aguirre cerda 601",
+      "rg": "8",
+      "cm": "151",
+      "tl": "995665642",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "2413",
@@ -1499,31 +1499,7 @@
       "cm": "163",
       "tl": "+56412532073",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
-    },
-    {
-      "im": "2270",
-      "lat": "-37.2464406",
-      "lng": "-73.3204820",
-      "nm": "LA ESTRELLA",
-      "dr": "condell 654",
-      "rg": "8",
-      "cm": "159",
-      "tl": "+56412551009",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "2511",
-      "lat": "-37.2805317",
-      "lng": "-72.7147528",
-      "nm": "REDFARMA",
-      "dr": "balmaceda 243 local 3",
-      "rg": "8",
-      "cm": "168",
-      "tl": "+56993998146",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "6657",
@@ -1535,19 +1511,43 @@
       "cm": "170",
       "tl": "944304405",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
-      "im": "2291",
-      "lat": "-36.9257459",
-      "lng": "-73.0248730",
-      "nm": "SALCOBRAND",
-      "dr": "m. rodriguez 575",
+      "im": "2511",
+      "lat": "-37.2805317",
+      "lng": "-72.7147528",
+      "nm": "REDFARMA",
+      "dr": "balmaceda 243 local 3",
       "rg": "8",
-      "cm": "148",
-      "tl": "+562356895",
+      "cm": "168",
+      "tl": "+56993998146",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
+    },
+    {
+      "im": "6348",
+      "lat": "-37.2464179",
+      "lng": "-73.3158626",
+      "nm": "SALCOBRAND",
+      "dr": "calle esmeralda 334",
+      "rg": "8",
+      "cm": "159",
+      "tl": "24223300",
       "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "2369",
+      "lat": "-36.617692",
+      "lng": "-72.956681",
+      "nm": "TOME",
+      "dr": "egaña 1097 local 1",
+      "rg": "8",
+      "cm": "156",
+      "tl": "+56412382466",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "2506",
@@ -1559,7 +1559,7 @@
       "cm": "177",
       "tl": "+562431428",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "2332",
@@ -1631,7 +1631,7 @@
       "cm": "218",
       "tl": "944406001",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3571",
@@ -1643,19 +1643,19 @@
       "cm": "222",
       "tl": "+56452519138",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "3557",
-      "lat": "-39.2828010",
-      "lng": "-72.2279232",
-      "nm": "F. CRUZ VERDE L-375",
-      "dr": "av. p. de valdivia nº 712",
+      "im": "3561",
+      "lat": "-39.2824414",
+      "lng": "-72.2278521",
+      "nm": "F. AHUMADA L-231",
+      "dr": "calle camilo henriquez 555",
       "rg": "9",
       "cm": "219",
-      "tl": "+562410920",
+      "tl": "2416259",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
       "im": "3568",
@@ -1667,7 +1667,7 @@
       "cm": "207",
       "tl": "",
       "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3549",
@@ -1679,19 +1679,7 @@
       "cm": "201",
       "tl": "+562652091",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "3536",
-      "lat": "-38.2350856",
-      "lng": "-72.3323669",
-      "nm": "FARMACIA CENTRAL 01",
-      "dr": "confederación suiza nº1268",
-      "rg": "9",
-      "cm": "231",
-      "tl": "+562842608",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3547",
@@ -1703,43 +1691,19 @@
       "cm": "210",
       "tl": "+56452613008",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "6646",
-      "lat": "-39.276581",
-      "lng": "-71.974481",
-      "nm": "FARMACIA DE TODOS ",
-      "dr": "miguel ansorena n° 425 c local 5 pucon",
+      "im": "6093",
+      "lat": "-37.80738",
+      "lng": "-72.690799",
+      "nm": "FARMACIA CRUZ VERDE(1085)",
+      "dr": "avda. o´higgins n° 1744 local 4 - 5 - 6",
       "rg": "9",
-      "cm": "214",
-      "tl": "+5688822413",
+      "cm": "221",
+      "tl": "+56+56232787376",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "4377",
-      "lat": "-38.9858936",
-      "lng": "-72.6391775",
-      "nm": "FARMACIA DR. SIMI",
-      "dr": "fco. bilbao 402",
-      "rg": "9",
-      "cm": "213",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "5396",
-      "lat": "-39.1006589",
-      "lng": "-72.6741313",
-      "nm": "FARMACIA DR. SIMI",
-      "dr": "lord cochrane n° 520",
-      "rg": "9",
-      "cm": "206",
-      "tl": "+562491029",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3541",
@@ -1751,19 +1715,31 @@
       "cm": "230",
       "tl": "+56452862763",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "3523",
-      "lat": "-37.7980752",
-      "lng": "-72.7054708",
-      "nm": "FARMACIA DR. SIMI F0182",
-      "dr": "lautaro nº 1",
+      "im": "4377",
+      "lat": "-38.9858936",
+      "lng": "-72.6391775",
+      "nm": "FARMACIA DR. SIMI",
+      "dr": "fco. bilbao 402",
       "rg": "9",
-      "cm": "221",
-      "tl": "+562755898",
+      "cm": "213",
+      "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "5396",
+      "lat": "-39.1006589",
+      "lng": "-72.6741313",
+      "nm": "FARMACIA DR. SIMI",
+      "dr": "lord cochrane n° 520",
+      "rg": "9",
+      "cm": "206",
+      "tl": "+562491029",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "10676",
@@ -1775,7 +1751,19 @@
       "cm": "217",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "7973",
+      "lat": "-39.276613",
+      "lng": "-71.975795",
+      "nm": "FARMACIA FARMATOTAL L 06",
+      "dr": "avda. bernardo o´higgins n° 311 local 04, pucon",
+      "rg": "9",
+      "cm": "214",
+      "tl": "+56452755888",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "5621",
@@ -1787,7 +1775,7 @@
       "cm": "218",
       "tl": "+56984126521",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "7443",
@@ -1799,7 +1787,7 @@
       "cm": "223",
       "tl": "+5696596764",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "6718",
@@ -1811,19 +1799,19 @@
       "cm": "219",
       "tl": "+562605394",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "9719",
-      "lat": "-38.737271",
-      "lng": "-72.590016",
-      "nm": "FARMACIA SAN LUIS",
-      "dr": "manuel rodriguez nº 1123, local 2",
+      "im": "6376",
+      "lat": "-38.234229",
+      "lng": "-72.332877",
+      "nm": "FARMACIA SALCOBRAND L-763",
+      "dr": "calle general lagos 545",
       "rg": "9",
-      "cm": "200",
-      "tl": "+56979729340",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "cm": "231",
+      "tl": "",
+      "at": "1",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3554",
@@ -1835,7 +1823,19 @@
       "cm": "228",
       "tl": "975979649",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "9727",
+      "lat": "-38.7379117",
+      "lng": "-72.5941472",
+      "nm": "FARMACIAS VITALI",
+      "dr": "manuel montt nº 502 local 1",
+      "rg": "9",
+      "cm": "200",
+      "tl": "+56941746247",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
       "im": "4590",
@@ -1847,7 +1847,7 @@
       "cm": "208",
       "tl": "+56452638923",
       "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3191",
@@ -1874,52 +1874,40 @@
       "horario_turno": "Inició el Miércoles 31 de Diciembre, de a del día hoy"
     },
     {
-      "im": "4313",
-      "lat": "-41.1272434",
-      "lng": "-73.0573225",
-      "nm": " FARMACIA CRUZ VERDE ",
-      "dr": "carlos richter 200 frutillar",
-      "rg": "10",
-      "cm": "248",
-      "tl": "+566944000",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
-    },
-    {
-      "im": "7034",
-      "lat": "-40.5917535",
-      "lng": "-73.1255912",
-      "nm": "FARMACIA BÜHLER",
-      "dr": "av. guillermo bühler  n 2005 local 3 y 4 osorno",
+      "im": "7598",
+      "lat": "-40.5818408",
+      "lng": "-73.1119323",
+      "nm": "ANTU FARMACIA",
+      "dr": "avenida rene soriano 2381",
       "rg": "10",
       "cm": "263",
-      "tl": "+5656967698175",
+      "tl": "949699623",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "3242",
-      "lat": "-43.1164894",
-      "lng": "-73.6302719",
-      "nm": "FARMACIA CHILHUE",
-      "dr": "juan ladrilleros #202",
+      "im": "3245",
+      "lat": "-42.3793656",
+      "lng": "-73.6477666",
+      "nm": "FARMACIA AUSTRAL",
+      "dr": "ramon freire 480",
       "rg": "10",
-      "cm": "260",
-      "tl": "+56(65) 2681712",
+      "cm": "257",
+      "tl": "+56652641225",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
-      "im": "3248",
-      "lat": "-41.8663485",
-      "lng": "-73.8256356",
-      "nm": "FARMACIA CHILOE",
-      "dr": "avenida arturo prat nº 280 ",
+      "im": "3246",
+      "lat": "-42.6229172",
+      "lng": "-73.7785645",
+      "nm": "FARMACIA AUSTRAL",
+      "dr": "sargento candelaria 286",
       "rg": "10",
-      "cm": "254",
-      "tl": "2621616",
+      "cm": "255",
+      "tl": "+56652671501",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
       "im": "3390",
@@ -1931,19 +1919,7 @@
       "cm": "247",
       "tl": "+56652441391",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "5519",
-      "lat": "-41.4723017",
-      "lng": "-72.9365863",
-      "nm": "FARMACIA CRUZ VERDE",
-      "dr": "illapel n°10, local c3a, centro comercial paseo costanera, puerto montt",
-      "rg": "10",
-      "cm": "244",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "11076",
@@ -1955,55 +1931,55 @@
       "cm": "249",
       "tl": "986392723",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
-      "im": "3351",
-      "lat": "-41.2546828",
-      "lng": "-73.0061713",
+      "im": "3255",
+      "lat": "-41.8687706",
+      "lng": "-73.8270569",
       "nm": "FARMACIA CRUZ VERDE ",
-      "dr": "baquedano nº 506  llanquihue",
+      "dr": "pudeto nº254",
       "rg": "10",
-      "cm": "250",
-      "tl": "+56652242666",
+      "cm": "254",
+      "tl": "+56652622283",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "6706",
-      "lat": "-41.7696522",
-      "lng": "-73.1280655",
-      "nm": "FARMACIA EL HERBARIO DE CALBUCO",
-      "dr": "ernesto riquelme 125 calbuco",
-      "rg": "10",
-      "cm": "245",
-      "tl": "+5665652460996",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "9123",
-      "lat": "-42.378003",
-      "lng": "-73.651798",
-      "nm": "FARMACIA FARMACÉUTICA CHILOÉ",
-      "dr": "ramòn freire 620",
-      "rg": "10",
-      "cm": "257",
-      "tl": "+5656986057255",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
-    },
-    {
-      "im": "10248",
-      "lat": "-41.4557544",
-      "lng": "-72.9457609",
-      "nm": "FARMACIA KAIROS",
-      "dr": "séptimo de línea 445",
+      "im": "4191",
+      "lat": "-41.4725261",
+      "lng": "-72.9417890",
+      "nm": "FARMACIA DEL DR. SIMI",
+      "dr": "antonio varas 503 puerto montt",
       "rg": "10",
       "cm": "244",
-      "tl": "+56997494912",
+      "tl": "+5656992426819",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
+    },
+    {
+      "im": "10251",
+      "lat": "-41.4606395",
+      "lng": "-72.9533926",
+      "nm": "FARMACIA DR. SIMI",
+      "dr": "avenida parque industrial 481 local e",
+      "rg": "10",
+      "cm": "244",
+      "tl": "+56945838511",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "4517",
+      "lat": "-41.7745255",
+      "lng": "-73.1273185",
+      "nm": "FARMACIA DR.SIMI",
+      "dr": "federico errazuriz nº 599 –b, comuna de calbuco",
+      "rg": "10",
+      "cm": "245",
+      "tl": "+5656992426819",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3357",
@@ -2015,55 +1991,43 @@
       "cm": "251",
       "tl": "+562451467",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "3352",
-      "lat": "-40.5747256",
-      "lng": "-73.1200861",
-      "nm": "FARMACIA LYNCH",
-      "dr": "patricio lynch 1733",
+      "im": "10026",
+      "lat": "-40.5734676",
+      "lng": "-73.1316496",
+      "nm": "FARMACIA MAICAO ",
+      "dr": "eleuterio ramírez 1085 local 2",
       "rg": "10",
       "cm": "263",
-      "tl": "+5656642252525",
+      "tl": "+5622694400",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
-      "im": "9372",
-      "lat": "-42.4794514",
-      "lng": "-73.7634853",
-      "nm": "FARMACIA MAICAO",
-      "dr": "san martín 595",
+      "im": "3353",
+      "lat": "-41.2571415",
+      "lng": "-73.005636",
+      "nm": "FARMACIA PLAZA ",
+      "dr": "errazuriz 410",
       "rg": "10",
-      "cm": "253",
-      "tl": "+56226944000",
+      "cm": "250",
+      "tl": "+562243729",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
-      "im": "3458",
-      "lat": "-42.6227652",
-      "lng": "-73.7726461",
-      "nm": "FARMACIA NACIMIENTO",
-      "dr": "calle centenario nº186, chonchi",
+      "im": "3238",
+      "lat": "-43.1179237",
+      "lng": "-73.6167145",
+      "nm": "FARMACIA QUELLON",
+      "dr": "ramon freire 329",
       "rg": "10",
-      "cm": "255",
-      "tl": "+56652671254",
+      "cm": "260",
+      "tl": "+562680312",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
-    },
-    {
-      "im": "3300",
-      "lat": "-41.3229566",
-      "lng": "-72.9844911",
-      "nm": "FARMACIA PSUYING TANG ",
-      "dr": "andrés bello nº304, local 1 puerto varas",
-      "rg": "10",
-      "cm": "252",
-      "tl": "+56652511567",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3243",
@@ -2075,31 +2039,43 @@
       "cm": "262",
       "tl": "+562661101",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
-      "im": "3380",
-      "lat": "-40.5818558",
-      "lng": "-73.1623363",
+      "im": "3433",
+      "lat": "-40.573883",
+      "lng": "-73.1518479",
       "nm": "FARMACIA REPUBLICA",
-      "dr": "real 1293",
+      "dr": "republica 440",
       "rg": "10",
       "cm": "263",
-      "tl": "+56642249523",
+      "tl": "+56642315655",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "11215",
-      "lat": "-40.5899852",
-      "lng": "-73.1163122",
-      "nm": "FARMACIA REPUBLICA LIMITADA",
-      "dr": "avenida diego de almagro 1696",
+      "im": "11152",
+      "lat": "-41.1264204",
+      "lng": "-73.059505",
+      "nm": "FARMACIA SALCOBRAND ",
+      "dr": "calle carlos richter  134",
       "rg": "10",
-      "cm": "263",
-      "tl": "569573081",
+      "cm": "248",
+      "tl": "224223300",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
+    },
+    {
+      "im": "3265",
+      "lat": "-42.4821281",
+      "lng": "-73.7636509",
+      "nm": "FARMACIA SALCOBRAND",
+      "dr": "san martin 369",
+      "rg": "10",
+      "cm": "253",
+      "tl": "+562533589",
+      "at": "1",
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
       "im": "3436",
@@ -2111,19 +2087,7 @@
       "cm": "265",
       "tl": "+562351320",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
-    },
-    {
-      "im": "3317",
-      "lat": "-41.3173415",
-      "lng": "-72.984554",
-      "nm": "FARMACIA TANG ",
-      "dr": "san jose  nº 317 puerto varas",
-      "rg": "10",
-      "cm": "252",
-      "tl": "+56652234577",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "11655",
@@ -2135,7 +2099,43 @@
       "cm": "252",
       "tl": "976227651",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "3301",
+      "lat": "-41.317953",
+      "lng": "-72.9850216",
+      "nm": "FARMACIAS CRUZ VERDE ",
+      "dr": "calle del salvador 401",
+      "rg": "10",
+      "cm": "252",
+      "tl": "2694400",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "3302",
+      "lat": "-41.3226209",
+      "lng": "-72.9498624",
+      "nm": "FARMACIAS CRUZ VERDE ",
+      "dr": "centro comercial doña ema  local 30 km 1.5 ruta 225  camino ensenada",
+      "rg": "10",
+      "cm": "252",
+      "tl": "+560226944000",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "5985",
+      "lat": "-40.5738712",
+      "lng": "-73.1295351",
+      "nm": "FARMACIAS DR. SIMI ",
+      "dr": "lynch 1320, osorno",
+      "rg": "10",
+      "cm": "263",
+      "tl": "+56642202888",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "3263",
@@ -2174,6 +2174,18 @@
       "horario_turno": "Inició el Miércoles 31 de Diciembre, de a del día hoy"
     },
     {
+      "im": "7944",
+      "lat": "-45.572441",
+      "lng": "-72.069489",
+      "nm": "FARMACIA DR. SIMI",
+      "dr": "francisco bilbao 398, coyhaique",
+      "rg": "11",
+      "cm": "274",
+      "tl": "+5667223673560",
+      "at": "0",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:45 hrs."
+    },
+    {
       "im": "3366",
       "lat": "-45.4051920",
       "lng": "-72.6971661",
@@ -2183,19 +2195,7 @@
       "cm": "276",
       "tl": "2332543",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 00:00 a 23:59 hrs."
-    },
-    {
-      "im": "6456",
-      "lat": "-45.5820282",
-      "lng": "-72.0542514",
-      "nm": "FARMACIAS DOCTOR SIMI FRANQUICIA l-266",
-      "dr": "calle victoria  715",
-      "rg": "11",
-      "cm": "274",
-      "tl": "2211118",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:45 hrs."
+      "horario_turno": "Domingo 13 de Julio De 00:00 a 23:59 hrs."
     },
     {
       "im": "3371",
@@ -2219,55 +2219,31 @@
       "cm": "293",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 23:59 hrs."
     },
     {
-      "im": "6947",
-      "lat": "-53.1597182",
-      "lng": "-70.9058569",
-      "nm": "FARMACIA DR. SIMI F0218",
-      "dr": "bories 781",
+      "im": "3437",
+      "lat": "-53.1587674",
+      "lng": "-70.9048207",
+      "nm": "FARMACIA SALCOBRAND 360",
+      "dr": "calle bories 683",
       "rg": "12",
       "cm": "284",
-      "tl": "+56963938587",
-      "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:00 hrs."
+      "tl": "2222927",
+      "at": "1",
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:00 hrs."
     },
     {
-      "im": "754",
-      "lat": "-33.733602",
-      "lng": "-70.733803",
+      "im": "1220",
+      "lat": "-33.531558",
+      "lng": "-70.775088",
       "nm": "AHUMADA ",
-      "dr": "bernardino bravo  0115",
+      "dr": "alfredo silva carvallo 1415",
       "rg": "13",
-      "cm": "334",
-      "tl": "+560226313531",
+      "cm": "313",
+      "tl": "+560227813712",
       "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
-    },
-    {
-      "im": "6117",
-      "lat": "-33.360947",
-      "lng": "-70.714081",
-      "nm": "ARAUCOMED",
-      "dr": "séptimo de línea 209",
-      "rg": "13",
-      "cm": "319",
-      "tl": "",
-      "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
-    },
-    {
-      "im": "7280",
-      "lat": "-33.39538",
-      "lng": "-70.75341",
-      "nm": "BENMAR",
-      "dr": "avenida el montijo 1831",
-      "rg": "13",
-      "cm": "322",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "6392",
@@ -2279,31 +2255,31 @@
       "cm": "331",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "6770",
-      "lat": "-33.41620",
-      "lng": "-70.71226",
-      "nm": "CARRASCAL",
-      "dr": "avenida carrascal n° 6020",
+      "im": "4825",
+      "lat": "-33.55315",
+      "lng": "-70.6739704",
+      "nm": "BLANCA",
+      "dr": "gran avenida josé miguel carrera 10167",
       "rg": "13",
-      "cm": "320",
+      "cm": "299",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "1231",
-      "lat": "-33.501359",
-      "lng": "-70.745498",
-      "nm": "CENTRAL",
-      "dr": "segunda transversal 2982  l-5-e",
+      "im": "1232",
+      "lat": "-33.473639",
+      "lng": "-70.722624",
+      "nm": "CERRILLOS ",
+      "dr": "simon bolivar 4435",
       "rg": "13",
       "cm": "313",
-      "tl": "+560225933299",
+      "tl": "+560227412111",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "10010",
@@ -2315,19 +2291,7 @@
       "cm": "328",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "1955",
-      "lat": "-33.663947",
-      "lng": "-70.92897",
-      "nm": "CRUZ VERDE ",
-      "dr": "av. bernardo o'higgins 1092.  l 2 y 3",
-      "rg": "13",
-      "cm": "342",
-      "tl": "+560228157512",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "767",
@@ -2339,7 +2303,7 @@
       "cm": "335",
       "tl": "+5628555868",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "827",
@@ -2351,7 +2315,31 @@
       "cm": "339",
       "tl": "+560228352715",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "6528",
+      "lat": "-33.593045",
+      "lng": "-70.543640",
+      "nm": "DE LO ALTO",
+      "dr": "pasaje volcán mencheca n° 994",
+      "rg": "13",
+      "cm": "327",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
+    },
+    {
+      "im": "1731",
+      "lat": "-33.506374",
+      "lng": "-70.638138",
+      "nm": "DEL DR. SIMI ",
+      "dr": "santa rosa 5320, local 3",
+      "rg": "13",
+      "cm": "323",
+      "tl": "+560225527818",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "1771",
@@ -2363,31 +2351,43 @@
       "cm": "325",
       "tl": "25114322",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "793",
-      "lat": "-33.429507",
-      "lng": "-70.734104",
+      "im": "1957",
+      "lat": "-33.663898",
+      "lng": "-70.928893",
       "nm": "DEL DR. SIMI ",
-      "dr": "av. jose joaquin perez 7177",
+      "dr": "avenida bernardo o'higgins 1085",
       "rg": "13",
-      "cm": "297",
-      "tl": "+560227807389",
+      "cm": "342",
+      "tl": "+560228380260",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "872",
-      "lat": "-33.448949",
-      "lng": "-70.679158",
-      "nm": "DEL DR. SIMI ",
-      "dr": "av. matucana 24. l - 2g",
+      "im": "4802",
+      "lat": "-33.687302",
+      "lng": "-71.215482",
+      "nm": "DEL DR. SIMI",
+      "dr": "ortúzar n° 602",
       "rg": "13",
-      "cm": "300",
-      "tl": "+560224401285",
+      "cm": "337",
+      "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
+    },
+    {
+      "im": "1577",
+      "lat": "-33.612363",
+      "lng": "-70.575343",
+      "nm": "DEL DR. SIMI ",
+      "dr": "av. concha y toro 15",
+      "rg": "13",
+      "cm": "327",
+      "tl": "+5623610293",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "10280",
@@ -2399,55 +2399,43 @@
       "cm": "306",
       "tl": "+56935784529",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "7706",
-      "lat": "-33.42946",
-      "lng": "-70.64680",
-      "nm": "ECO FARMACIAS",
-      "dr": "avenida recoleta n° 313",
-      "rg": "13",
-      "cm": "321",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
-    },
-    {
-      "im": "7404",
-      "lat": "-33.3987995",
-      "lng": "-70.6775505",
-      "nm": "EL ALBA",
-      "dr": "baron de judas reales 3387",
-      "rg": "13",
-      "cm": "298",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
-    },
-    {
-      "im": "11043",
-      "lat": "-33.5985167",
-      "lng": "-70.8836824",
-      "nm": "EUMAR",
-      "dr": "calle larrain 2964",
+      "im": "11068",
+      "lat": "-33.6107765",
+      "lng": "-70.901527",
+      "nm": "Ecuafarma",
+      "dr": "avenida 21 de mayo  4654",
       "rg": "13",
       "cm": "346",
-      "tl": "949580715",
+      "tl": "998884568",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "4433",
-      "lat": "-33.4362815",
-      "lng": "-70.7542549",
-      "nm": "FARMA OFERTA",
-      "dr": "san francisco 8851",
+      "im": "1517",
+      "lat": "-33.436491",
+      "lng": "-70.750583",
+      "nm": "EMIFAR",
+      "dr": "av. san francisco 8687",
       "rg": "13",
       "cm": "318",
-      "tl": "",
+      "tl": "+560226437936",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
+    },
+    {
+      "im": "9142",
+      "lat": "-33.5752449",
+      "lng": "-70.8340494",
+      "nm": "Falmez",
+      "dr": "papa juan xxiii 386",
+      "rg": "13",
+      "cm": "345",
+      "tl": "+56998977551",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "923",
@@ -2459,7 +2447,19 @@
       "cm": "344",
       "tl": "+560228190180",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
+    },
+    {
+      "im": "6541",
+      "lat": "-33.453903",
+      "lng": "-70.692683",
+      "nm": "FARMABARRIO",
+      "dr": "avenida libertador bernardo o'higgins 4103, torre a, edificio ecocapital",
+      "rg": "13",
+      "cm": "300",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "925",
@@ -2471,19 +2471,43 @@
       "cm": "305",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "1735",
-      "lat": "-33.505712",
-      "lng": "-70.623572",
-      "nm": "FARMAVIDA",
-      "dr": "vecinal 5351",
+      "im": "6980",
+      "lat": "-33.37475",
+      "lng": "-70.67152",
+      "nm": "GLORIA",
+      "dr": "avenida pedro fontova 5650",
       "rg": "13",
-      "cm": "323",
-      "tl": "+560225536383",
+      "cm": "298",
+      "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
+    },
+    {
+      "im": "1535",
+      "lat": "-33.589384",
+      "lng": "-70.580445",
+      "nm": "HABANA",
+      "dr": "angel pimentel 22",
+      "rg": "13",
+      "cm": "327",
+      "tl": "+5627692493",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
+    },
+    {
+      "im": "4815",
+      "lat": "-33.4720336",
+      "lng": "-70.5614221",
+      "nm": "JOVITA",
+      "dr": "avenida grecia 6918",
+      "rg": "13",
+      "cm": "316",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "1383",
@@ -2495,67 +2519,55 @@
       "cm": "315",
       "tl": "+560225245104",
       "at": "1",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "1188",
-      "lat": "-33.45717",
-      "lng": "-70.705887",
-      "nm": "LAS ROSAS ",
-      "dr": "av. libertador bernardo o'higgins 5313 l-10",
+      "im": "9113",
+      "lat": "-33.4033363",
+      "lng": "-70.7046569",
+      "nm": "LA GENERICA",
+      "dr": "blanco encalada 1425",
       "rg": "13",
-      "cm": "311",
-      "tl": "+560227761668",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
-    },
-    {
-      "im": "9766",
-      "lat": "-33.6006676",
-      "lng": "-70.5802933",
-      "nm": "Mundo Farmacia",
-      "dr": "independencia 219",
-      "rg": "13",
-      "cm": "327",
+      "cm": "322",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "4820",
-      "lat": "-33.6376671",
-      "lng": "-70.7077474",
-      "nm": "NOS",
-      "dr": "portales 4290",
+      "im": "1721",
+      "lat": "-33.592994",
+      "lng": "-70.697068",
+      "nm": "LOS ALMENDROS",
+      "dr": "o'higgins 9",
       "rg": "13",
       "cm": "333",
-      "tl": "",
+      "tl": "+5628581654",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "1595",
-      "lat": "-33.588325",
-      "lng": "-70.564033",
-      "nm": "PABLO",
-      "dr": "angel pimentel  01312",
+      "im": "7021",
+      "lat": "-33.4218647",
+      "lng": "-70.6978577",
+      "nm": "MOSAN ",
+      "dr": "avenida carrascal 4646",
       "rg": "13",
-      "cm": "327",
-      "tl": "+5622655574",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
-    },
-    {
-      "im": "4027",
-      "lat": "-33.582359",
-      "lng": "-70.676769",
-      "nm": "QUIRON",
-      "dr": "padre hurtado 10521. local-b",
-      "rg": "13",
-      "cm": "299",
+      "cm": "320",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
+    },
+    {
+      "im": "7509",
+      "lat": "-33.42814",
+      "lng": "-70.64374",
+      "nm": "PATRONATO",
+      "dr": "patronato 437",
+      "rg": "13",
+      "cm": "321",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "9371",
@@ -2567,31 +2579,31 @@
       "cm": "296",
       "tl": "+56964445470",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "3968",
-      "lat": "-33.554753",
-      "lng": "-70.794807",
-      "nm": "SALCOBRAND",
-      "dr": "av. parque central poniente 121 ciudad satelite",
+      "im": "764",
+      "lat": "-33.7329334",
+      "lng": "-70.7383103",
+      "nm": "SALCOBRAND ",
+      "dr": "avenida josé manuel balmaceda  157",
       "rg": "13",
-      "cm": "313",
-      "tl": "+560227150399",
+      "cm": "334",
+      "tl": "28211391",
       "at": "1",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "11219",
-      "lat": "-33.5948859",
-      "lng": "-70.5788282",
-      "nm": "salcobrand",
-      "dr": "avenida concha y toro  211",
+      "im": "1191",
+      "lat": "-33.457153",
+      "lng": "-70.706123",
+      "nm": "SALCOBRAND",
+      "dr": "av. libertador bernardo o'higgins 5155",
       "rg": "13",
-      "cm": "327",
-      "tl": "224223300",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "cm": "311",
+      "tl": "+5627763976",
+      "at": "1",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
       "im": "9375",
@@ -2603,19 +2615,7 @@
       "cm": "336",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
-    },
-    {
-      "im": "1294",
-      "lat": "-33.691460",
-      "lng": "-71.215843",
-      "nm": "SERRANO ",
-      "dr": "conde de manso 613, local 3",
-      "rg": "13",
-      "cm": "337",
-      "tl": "+5628323171",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
       "im": "1178",
@@ -2627,31 +2627,43 @@
       "cm": "310",
       "tl": "",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "4567",
-      "lat": "-33.466150",
-      "lng": "-70.560600",
-      "nm": "V Y M",
-      "dr": "ictinos 1138",
+      "im": "2559",
+      "lat": "-33.355257",
+      "lng": "-70.72069",
+      "nm": "VECINA LOS JARDINES",
+      "dr": "lo cruzat 0460",
       "rg": "13",
-      "cm": "316",
-      "tl": "+56022784643",
+      "cm": "319",
+      "tl": "+560226274500",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
     },
     {
-      "im": "5308",
-      "lat": "-33.5643119",
-      "lng": "-70.8220375",
-      "nm": "VADEMECUM",
-      "dr": "rodolfo jaramillo 2500",
+      "im": "792",
+      "lat": "-33.417544",
+      "lng": "-70.745069",
+      "nm": "VIDA Y SALUD",
+      "dr": "salvador gutierrez 7698",
       "rg": "13",
-      "cm": "345",
-      "tl": "",
+      "cm": "297",
+      "tl": "+5626400956",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 08:00 a 07:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 08:00 a 07:59 del día siguiente"
+    },
+    {
+      "im": "3193",
+      "lat": "-40.2944444",
+      "lng": "-73.0810555",
+      "nm": "AHUMADA",
+      "dr": "esmeralda nº 723",
+      "rg": "14",
+      "cm": "235",
+      "tl": "+56632426857",
+      "at": "1",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "3171",
@@ -2663,31 +2675,7 @@
       "cm": "241",
       "tl": "+562421339",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "11685",
-      "lat": "-39.4528108",
-      "lng": "-72.7744324",
-      "nm": "CRUZ VERDE",
-      "dr": "calle libertad 302",
-      "rg": "14",
-      "cm": "237",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "3207",
-      "lat": "-39.8145587",
-      "lng": "-73.2470964",
-      "nm": "CRUZ VERDE",
-      "dr": "independencia nº 550",
-      "rg": "14",
-      "cm": "232",
-      "tl": "+562203391",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 00:00 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "6696",
@@ -2699,7 +2687,31 @@
       "cm": "238",
       "tl": "",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "11685",
+      "lat": "-39.4528108",
+      "lng": "-72.7744324",
+      "nm": "CRUZ VERDE",
+      "dr": "calle libertad 302",
+      "rg": "14",
+      "cm": "237",
+      "tl": "",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "3176",
+      "lat": "-40.334403",
+      "lng": "-72.954823",
+      "nm": "DR. SIMI",
+      "dr": "pedro lagos n° 622",
+      "rg": "14",
+      "cm": "243",
+      "tl": "+562341818",
+      "at": "0",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "5453",
@@ -2711,43 +2723,31 @@
       "cm": "234",
       "tl": "+56632696573",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "5514",
-      "lat": "-40.2904895",
-      "lng": "-73.0804230",
-      "nm": "LA UNIÓN",
-      "dr": "arturo prat 1091",
-      "rg": "14",
-      "cm": "235",
-      "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "9706",
-      "lat": "-40.334162",
-      "lng": "-72.9560159",
-      "nm": "MAICAO",
-      "dr": "independencia 1105",
-      "rg": "14",
-      "cm": "243",
-      "tl": "+56226944400",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
-    },
-    {
-      "im": "9363",
-      "lat": "-39.6430193",
-      "lng": "-72.3305594",
-      "nm": "MAICAO",
-      "dr": "martínez de rozas 592",
+      "im": "3181",
+      "lat": "-39.6425833",
+      "lng": "-72.3318055",
+      "nm": "SALCOBRAND",
+      "dr": "martinez de rosas nº 720",
       "rg": "14",
       "cm": "242",
       "tl": "",
-      "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "at": "1",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
+    },
+    {
+      "im": "3213",
+      "lat": "-39.8137413",
+      "lng": "-73.2454147",
+      "nm": "SALCOBRAND",
+      "dr": "camilo henriquez nº 450",
+      "rg": "14",
+      "cm": "232",
+      "tl": "+56632219399",
+      "at": "1",
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 00:00 del día siguiente"
     },
     {
       "im": "3165",
@@ -2759,7 +2759,7 @@
       "cm": "240",
       "tl": "+56632452326",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
       "im": "8034",
@@ -2774,40 +2774,40 @@
       "horario_turno": "Inició el Miércoles 31 de Diciembre, de a del día hoy"
     },
     {
-      "im": "9680",
-      "lat": "-18.4278433",
-      "lng": "-70.2907476",
-      "nm": "MEGAPHARM",
-      "dr": "calle linderos poniente 4711",
+      "im": "6194",
+      "lat": "-18.4549723",
+      "lng": "-70.2842297",
+      "nm": "FARMEDICAL",
+      "dr": "avenida linderos 1217",
       "rg": "15",
       "cm": "1",
-      "tl": "984036573",
+      "tl": "73312901",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 21:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 21:00 hrs."
     },
     {
-      "im": "2433",
-      "lat": "-36.4265194",
-      "lng": "-71.9577666",
-      "nm": "CRUZ VERDE",
-      "dr": "ignacio serrano n°527",
+      "im": "2436",
+      "lat": "-36.424975",
+      "lng": "-71.9573055",
+      "nm": "DR. SIMI",
+      "dr": "independencia nº 651",
       "rg": "16",
       "cm": "194",
-      "tl": "+56422411420",
+      "tl": "+56422423702",
       "at": "0",
-      "horario_turno": "Inicia el Sábado 12 de Julio, de 09:00 a 08:59 del día siguiente"
+      "horario_turno": "Inicia el Domingo 13 de Julio, de 09:00 a 08:59 del día siguiente"
     },
     {
-      "im": "11298",
-      "lat": "-36.6100126",
-      "lng": "-72.1019113",
-      "nm": "FARMACIA AHUMADA",
-      "dr": "calle cinco de abril 775",
+      "im": "2306",
+      "lat": "-36.6103805",
+      "lng": "-72.1021416",
+      "nm": "EL LEON",
+      "dr": "cinco de abril n°795",
       "rg": "16",
       "cm": "179",
-      "tl": "968986048",
+      "tl": "+56422423544",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 23:59 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 23:59 hrs."
     },
     {
       "im": "11543",
@@ -2819,7 +2819,7 @@
       "cm": "180",
       "tl": "958316861",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "6303",
@@ -2831,7 +2831,7 @@
       "cm": "183",
       "tl": "+56920267373",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "9983",
@@ -2843,7 +2843,7 @@
       "cm": "189",
       "tl": "+56989043506",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "2482",
@@ -2855,7 +2855,7 @@
       "cm": "199",
       "tl": "+562266311",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "2323",
@@ -2867,7 +2867,7 @@
       "cm": "182",
       "tl": "+56422510031",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 09:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 09:00 a 22:00 hrs."
     },
     {
       "im": "2321",
@@ -2879,7 +2879,7 @@
       "cm": "184",
       "tl": "2260758",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "2427",
@@ -2891,7 +2891,7 @@
       "cm": "191",
       "tl": "+56422580113",
       "at": "0",
-      "horario_turno": "Sábado 12 de Julio De 08:00 a 22:00 hrs."
+      "horario_turno": "Domingo 13 de Julio De 08:00 a 22:00 hrs."
     },
     {
       "im": "2302",
