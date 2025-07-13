@@ -6,7 +6,7 @@ const path = require('path');
 
 const URL = 'https://seremienlinea.minsal.cl/asdigital/index.php?mfarmacias';
 const API_URL = '/asdigital/mfarmacias/mapa.php';
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // En server.js
 
